@@ -1,0 +1,26 @@
+StartSkill Let's start Medtech
+OPSTARTIntent Yes I am ready
+ChoosePatient Start Operation
+IntraOP use Max Mustermann
+IntraOP take Max Mustermann
+IntraOP use Kevin Davis
+IntraOP take Kevin Davis
+IntraOP use Martha Diaz
+IntraOP take Martha Diaz
+ChecklistIntent Begin the checklist
+SignUp Yes please signup
+SignUp Yeah signup please
+BeginQuestion Yes
+BeginQuestion No
+IntraOPYes Yes send the checklist
+IntraOPNo No don't send the checklist
+IntraOPRoom show Roomcamera at Monitor two
+IntraOPEndo show Endocam at Monitor one
+TakePicture Take a Picture
+TakePicture Take a snapshot
+TakePicture Take an image
+StartRecorder Alexa start recording
+StopRecorder Alexa stop recording
+EndOP Are all data ready to be sent
+EndOPYes Yes end the operation
+EndOPNo No don't end the operation'

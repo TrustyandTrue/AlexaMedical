@@ -1,0 +1,64 @@
+{
+  "intents": [
+    {
+      "intent": "StartSkill"
+    },
+    {
+      "intent": "OPSTARTIntent"
+    },
+    {
+      "intent": "StartOP"
+    },
+    {
+      "intent": "ChoosePatient"
+    },
+    {
+      "intent": "IntraOP"
+    },
+    {
+      "intent": "ChecklistIntent"
+    },
+    {
+      "intent": "SignUp"
+    },
+    {
+      "intent": "BeginQuestion"
+    },
+    {
+      "intent": "IntraOPYes"
+    },
+    {
+      "intent": "IntraOPNo"
+    },
+    {
+      "intent": "IntraOPRoom"
+    },
+    {
+      "intent": "IntraOPEndo"
+    },
+    {
+      "intent": "TakePicture"
+    },
+    {
+      "intent": "StartRecorder"
+    },
+    {
+      "intent": "StopRecorder"
+    },
+    {
+      "intent": "EndOP"
+    },
+    {
+      "intent": "EndOPYes"
+    },
+    {
+      "intent": "EndOPNo"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
